@@ -163,6 +163,7 @@ a {
 
 .featured-button {
   cursor: pointer;
+  background-color: #4dbf00;
   color: white;
   padding: 10px 20px;
   border-radius: 10px;
